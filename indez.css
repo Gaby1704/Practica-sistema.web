@@ -1,0 +1,27 @@
+body{
+  margin: 10; padding:10; font-size: 100%; font-family: 'Open Sans', sans-serif; font-weight: normal;
+}
+img {
+  max-width: 100%;
+}
+h2{
+  font-size: 1.3em; color: #000000;
+}
+h1{
+  font-size: 1.5em; color: white; 
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+  font-size: 1em; color: #777;
+}
+.encabezado {
+  width: 100%;
+  padding: 13px 8%;
+  background-color: #1014fa;
+}
+.menu{
+  width: 100%;
+  float: left;
+  background-color: #111;
+  padding: 8px 8%;
+}
